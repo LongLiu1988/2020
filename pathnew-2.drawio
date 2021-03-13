@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-13T11:48:01.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="ZGmEQmps201jcxEh3FC8" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-13T11:50:08.256Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="4gE4gdB4EPufSc4iXPkW" version="14.4.8" type="github">
   <diagram id="Qysw3-rOo7-g8x6gWeUs" name="Page-1">
     <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1000" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
           <mxGeometry width="1250.0000000000005" height="211" as="geometry" />
         </mxCell>
         <mxCell id="IYrFxxv-hgy3-oWXNiMI-28" value="&lt;b style=&quot;font-size: 27px;&quot;&gt;&lt;span style=&quot;font-size: 27px; font-family: kaiti; color: rgb(0, 112, 193);&quot; lang=&quot;ZH-CN&quot;&gt;建立遗传风险预测精准诊疗模式&lt;/span&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontSize=27;" parent="IYrFxxv-hgy3-oWXNiMI-73" vertex="1">
-          <mxGeometry x="131.04624877810363" y="20.091888888888892" width="1008.0645161290321" height="46.88888888888889" as="geometry" />
+          <mxGeometry x="119.99624877810363" y="20.091888888888892" width="1000" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IYrFxxv-hgy3-oWXNiMI-38" value="&lt;font style=&quot;font-size: 20px&quot;&gt;预测因子重要性评估&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="IYrFxxv-hgy3-oWXNiMI-73" vertex="1">
           <mxGeometry x="18.939393939393945" y="90.4252222222222" width="280" height="45.214285714285715" as="geometry" />
